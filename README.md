@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @okjason-source
+- 💲 action-trade-simulator
 - 👀 I’m interested in project management.
 - 👀 I’m interested in blockchain development and NFT projects.
 - 👀 I'm interested in making terrible games with AI and playing them for hours.
