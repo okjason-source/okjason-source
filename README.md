@@ -7,7 +7,7 @@
 
 - :speech_balloon: 
 
-- ⚡ Fun fact: Satoshi Nakamoto, the creator of Bitcoin, owns about 1 million bitcoins, but has never spent a single one.
+- ⚡ Fun fact: Avalanche AVAX scalable subnet network boasts speeds of 4500 TPS which is one of the fastest of all networks but doesn't come close to Solana's SOL raw 65000 TPS.
 <!---
 okjason-source/okjason-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
