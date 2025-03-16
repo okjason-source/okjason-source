@@ -7,7 +7,7 @@
 
 - :speech_balloon: 
 
-- ⚡ Fun fact: Avalanche AVAX scalable subnet network boasts speeds of 4500 TPS which is one of the fastest of all networks but doesn't come close to Solana's SOL raw 65000 TPS.
+- ⚡ Fun fact: As of February 2025, Pump. fun is responsible for over 83% of all token launches on the Solana blockchain.
 <!---
 okjason-source/okjason-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
