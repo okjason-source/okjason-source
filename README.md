@@ -5,7 +5,7 @@
 - 👀 I'm all in on AI, Web3, disruptive tech, and cybersecurity.
 - 🌱 I’m currently building with Diamond Pattern EIP 2535, react and types, upgradeable smart contract implementations for improved (DeFi) protocols.
 - :speech_balloon: 
-- ⚡ Fun fact: Did you know the Apollo Guidance Computer (AGC), used to land astronauts on the Moon in 1969, had less processing power than a modern digital watch?
+- ⚡ Fun fact: Did you know the Apollo Guidance Computer (AGC), used to land astronauts on the Moon in 1969, had less processing power than a modern digital watch?  The software was handwritten, debugged line by line, and woven into memory using actual copper wire—programming; literally stitched into the machine.
   
 <!---
 okjason-source/okjason-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
