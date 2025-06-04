@@ -5,8 +5,7 @@
 - 👀 I'm all in on AI, Web3, disruptive tech, and cybersecurity.
 - 🌱 I’m currently building with Diamond Pattern EIP 2535, react and types, upgradeable smart contract implementations for improved (DeFi) protocols.
 - :speech_balloon: 
-- ⚡ Fun fact: Did you know NFTs are programmable and can change based on real-world data or user interaction?
-    One example is a sports card NFT that updates a player’s stats in real time, or evolves based on how long you hold it.
+- ⚡ Fun fact: Did you know the Apollo Guidance Computer (AGC), used to land astronauts on the Moon in 1969, had less processing power than a modern digital watch?
   
 <!---
 okjason-source/okjason-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
