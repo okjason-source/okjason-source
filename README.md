@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okjason-source
-- 💲 Distribute Agent Language
+- 💲 Distributed Agent Language
 - 👀 I’m interested in building great products with great impacts.
 - 👀 I’m interested in blockchain development and all innovative projects.
 - 👀 I'm all in on AI, Agents, Web3, disruptive tech, and cybersecurity.
