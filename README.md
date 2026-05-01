@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @okjason-source
-- 💲 Distributed Agent Language
+- 💲 Distributed Agent Language. Signals. Blackpad. ConvIO. Home Market. MARK NFT. Locker NFT.
 - 👀 I’m interested in building great products with great impacts.
 - 👀 I’m interested in blockchain development and all innovative projects.
-- 👀 I'm all in on AI, Agents, Web3, disruptive tech, and cybersecurity.
+- 👀 I'm all in on AI, Agents, Web3, ML, RL, disruptive tech, and cybersecurity.
 - 🚆 The best time to build new rail is when you need new rail.
 - :speech_balloon: 
 - ⚡ Fun facts about Distributed Agent Language:
