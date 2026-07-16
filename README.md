@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okjason-source
-- 💲 Distributed Agent Language. Signals. TeamLeadAI. Blackpad. ConvIO. Home Market. MARK NFT. Locker NFT.
+- 💲 Distributed Agent Language. Distributed Agent Exchange. Signals. TeamLeadAI. Blackpad. Clarity AI. NFT LLC.
 - 👀 I’m interested in building great products with great impacts.
 - 👀 I’m interested in blockchain development and all innovative projects.
 - 👀 I'm all in on AI, Agents, Web3, ML, RL, disruptive tech, and cybersecurity.
